@@ -1,0 +1,9 @@
+c:\users\recto.j.f.santos.jr\documents\visual studio 2010\Projects\Spammer\Spammer\bin\Debug\Spammer.exe
+c:\users\recto.j.f.santos.jr\documents\visual studio 2010\Projects\Spammer\Spammer\bin\Debug\Spammer.pdb
+c:\users\recto.j.f.santos.jr\documents\visual studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.exe
+c:\users\recto.j.f.santos.jr\documents\visual studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.pdb
+C:\Github\Spammer\Spammer\obj\x86\Debug\Spammer.exe
+C:\Github\Spammer\Spammer\obj\x86\Debug\Spammer.pdb
+C:\Github\Spammer\Spammer\bin\Debug\Spammer.exe
+C:\Github\Spammer\Spammer\bin\Debug\Spammer.pdb
+C:\Github\Spammer\Spammer\obj\x86\Debug\Spammer.csprojResolveAssemblyReference.cache
